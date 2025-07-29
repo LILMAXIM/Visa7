@@ -6,7 +6,7 @@
 
 
 
-const NA = "4"; //place
+const NA = "7"; //place
 
 
 
